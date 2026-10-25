@@ -1,5 +1,5 @@
 # Spotify-Styler-Mocher
-lets you customise Spotify to your liking! with rounding, colors, and a ton more, with a ton of different customisation options
+This tool lets you customize Spotify to your liking! with custom rounding, different colors, gradient colors and a ton more, with a ton of different customisation options
 
 Will be updated again!
 What to expect?
